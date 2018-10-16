@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1434575489 source:d:\google drive\school\computer science\ray tracing final\ray tracing\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<cmath>
+	<limits>
+	<stdlib.h>
+	<stdio.h>
+	"Vect.h"
+	"Ray.h"
+	"Camera.h"
+	"Color.h"
+	"Source.h"
+	"Light.h"
+	"Object.h"
+	"Sphere.h"
+	"Plane.h"
+
+1434377326 d:\google drive\school\computer science\ray tracing final\ray tracing\vect.h
+	"math.h"
+
+1434512759 d:\google drive\school\computer science\ray tracing final\ray tracing\ray.h
+	"vect.h"
+
+1434391023 d:\google drive\school\computer science\ray tracing final\ray tracing\camera.h
+	"vect.h"
+
+1434554052 d:\google drive\school\computer science\ray tracing final\ray tracing\color.h
+
+1434549604 d:\google drive\school\computer science\ray tracing final\ray tracing\light.h
+	"Source.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\computer science\ray tracing final\ray tracing\sphere.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
+1434551126 d:\google drive\school\computer science\ray tracing final\ray tracing\object.h
+	"Ray.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\computer science\ray tracing final\ray tracing\plane.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
+1434552840 d:\google drive\school\computer science\ray tracing final\ray tracing\source.h
+
+1442959699 source:d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<cmath>
+	<limits>
+	<stdlib.h>
+	<stdio.h>
+	"Vect.h"
+	"Ray.h"
+	"Camera.h"
+	"Color.h"
+	"Source.h"
+	"Light.h"
+	"Object.h"
+	"Sphere.h"
+	"Plane.h"
+
+1434377326 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\vect.h
+	"math.h"
+
+1434512759 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\ray.h
+	"vect.h"
+
+1434391023 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\camera.h
+	"vect.h"
+
+1434554052 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\color.h
+
+1434552840 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\source.h
+
+1434549604 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\light.h
+	"Source.h"
+	"Vect.h"
+	"Color.h"
+
+1434551126 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\object.h
+	"Ray.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\sphere.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\archive\high school\computer science\ray tracing final\ray tracing\plane.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
+1442959831 source:d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<cmath>
+	<limits>
+	<stdlib.h>
+	<stdio.h>
+	"Vect.h"
+	"Ray.h"
+	"Camera.h"
+	"Color.h"
+	"Source.h"
+	"Light.h"
+	"Object.h"
+	"Sphere.h"
+	"Plane.h"
+
+1434377326 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\vect.h
+	"math.h"
+
+1434512759 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\ray.h
+	"vect.h"
+
+1434391023 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\camera.h
+	"vect.h"
+
+1434554052 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\color.h
+
+1434552840 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\source.h
+
+1434549604 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\light.h
+	"Source.h"
+	"Vect.h"
+	"Color.h"
+
+1434551126 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\object.h
+	"Ray.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\sphere.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
+1434550644 d:\google drive\school\archive\high school\grade 12 computer science\ray tracing final\ray tracing\plane.h
+	"math.h"
+	"Object.h"
+	"Vect.h"
+	"Color.h"
+
